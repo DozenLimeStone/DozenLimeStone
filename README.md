@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DozenLimeStone&theme=tokyonight) Hello since you hopped on my profile page, check out two repos i have most worked on, "Simple Github API" and "Simple Sqlite API".
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DozenLimeStone&theme=tokyonight) Check out two repos i have most worked on, "Simple Github API" and "Simple Sqlite API".
